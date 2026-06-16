@@ -1,13 +1,102 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%"/> 
+  <!-- Animated Header Graphic -->
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%" />
 
-### 🚀 Future Computer Science Engineer | Cybersecurity & AI Enthusiast
+  <!-- Academic and Career Heading -->
+  <h2>🚀 Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
 
+  <!-- Custom Telemetry Block -->
+  <table border="0" cellpadding="10" cellspacing="0" bgcolor="#1f1f1f" style="border-radius: 6px; margin: 15px 0;">
+    <tr>
+      <td>
+        <code style="color: #00ADD8;">⚡ STATUS: Designing secure network topologies & optimizing stochastic models.</code>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Spotify Audio Player Dropdown -->
+  <details>
+    <summary style="cursor: pointer; font-weight: bold; color: #0078D4; margin-bottom: 10px;">
+      🎵 Currently deep-focused & vibing to...
+    </summary>
+    <br />
+    <a href="https://open.spotify.com/user/somnathpaul" target="_blank">
+      <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Tracker" />
+    </a>
+  </details>
+
+  <!-- Profile View Counters and Interactive Triggers -->
+  <p align="center" style="margin-top: 15px;">
+    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat-square&color=0078D4&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2300ADD8&title_bg=%23555555&icon=shield.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true" alt="Hits" />
+    <a href="https://t.me/spxd007" target="_blank">
+      <img src="https://img.shields.io/badge/Connect-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Connection" />
+    </a>
+  </p>
+
+</div>
+
+<hr />
+
+<!-- Identity Overview Section -->
+<h2>🛡️ About Me</h2>
+<p>
+  I am a passionate <strong>Computer Science Engineering Student</strong> exploring the intersection of <strong>Advanced Artificial Intelligence</strong> and <strong>Robust Infrastructure Security</strong>. Driven by an entrepreneurial mindset, I aim to bypass the corporate routine by building innovative tech solutions from scratch.
+</p>
+
+<ul>
+  <li>🎓 <strong>Academics:</strong> Pursuing Engineering in Computer Science, mastering software engineering principles and stochastic systems.</li>
+  <li>🌐 <strong>Networking & Sec:</strong> <strong>Cisco CCNA Certified</strong>. Experienced in configuring secure network architectures, analytical problem solving, and WAN environments (Serial/Ethernet).</li>
+  <li>🧠 <strong>AI & Research:</strong> Implementing and evaluating Deep Learning architectures, Neural Networks, and stochastic applications (e.g., Markov Chain text/audio generation).</li>
+  <li>🛠️ <strong>Workflow:</strong> Firm believer in clear documentation, structured research, and automated pipelines using <strong>LaTeX/Overleaf</strong>.</li>
+</ul>
+
+<hr />
+
+<!-- Skill Matrix Segment -->
+<h2>⚙️ Tech Stack & Ecosystem</h2>
+
+<h3>💻 Languages & Core Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+<h3>🔒 Cybersecurity & Networking</h3>
+<p>
+  <img src="https://img.shields.io/badge/Cisco_CCNA-005A9C?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
+  <img src="https://img.shields.io/badge/TryHackMe-990000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+<h3>📊 Data, Web & Frameworks</h3>
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Frappe-FFB000?style=flat-square&logo=frappe&logoColor=black" alt="Frappe" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+<h3>🛠️ Developer Environment & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
+<!-- Embedded Pseudocode Segment -->
+<pre><code class="language-dart">
 // Continuous refinement loop
 class Engineer extends Creator {
-  final List<String> focusAreas = ["Ethical Hacking", "Stochastic Modeling", "Startup Architecture"];
+  final List&lt;String&gt; focusAreas = ["Ethical Hacking", "Stochastic Modeling", "Startup Architecture"];
   bool dynamicLearning = true;
 
   void currentSprint() {
@@ -15,21 +104,50 @@ class Engineer extends Creator {
     explore(Ecosystems.linuxKernel);
   }
 }
-Here is a complete overhaul of your GitHub profile README. It has been redesigned to reflect your background in **Computer Science Engineering**, your expertise in **Cybersecurity (CCNA certified)** and **Networking**, your focus on **Artificial Intelligence/Data Science**, and your **entrepreneurial mindset**. 
+</code></pre>
 
-The aesthetic is kept sleek, professional, and dark-themed (matching your `nord_dark` stats cards), while keeping the interactive elements and animated flair intact.
+<hr />
 
-***
+<!-- Objectives Subsection -->
+<h2>🎯 Current Pursuits</h2>
+<ul>
+  <li>🛠️ Deepening expertise in <strong>Frappe Framework</strong> for scalable business infrastructure.</li>
+  <li>🛡️ Practicing hands-on blue/red team scenarios on <strong>TryHackMe</strong>.</li>
+  <li>⚡ Simulating predictive AI behavior and refining structural workflows.</li>
+  <li>💬 Ask me about <strong>Network Security, Object-Oriented Design patterns, or PC building</strong>.</li>
+</ul>
 
-### Copy and paste the markdown below into your `README.md`:
+<hr />
 
-```markdown
+<!-- GitHub Visual Performance Metrics -->
+<h2>📊 Git Metrics</h2>
 <div align="center">
+  <a href="https://github.com/SP-XD" target="_blank">
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" />
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" />
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" />
+  </a>
 
-<!-- Animated Header -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%"/> 
+  <br /><br />
 
-### 🚀 Future Computer Science Engineer | Cybersecurity & AI Enthusiast
+  <details>
+    <summary style="cursor: pointer; font-weight: bold; color: #a0a0a0;">🔍 Expand Detailed Profile Insights</summary>
+    <br />
+    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="80%" />
+  </details>
+</div>
 
-```telemetry
-⚡ STATUS: Designing secure network topologies & optimizing stochastic models.
+<hr />
+
+<!-- The Engineering Cycle Graphic Layout -->
+<div align="center">
+  <h3>🔄 The Engineering Cycle</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="System Broken" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It Works" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="Magic" />
+  </p>
+  <p><em>"It works beautifully, but the mathematical abstraction says it shouldn't."</em></p>
+</div>

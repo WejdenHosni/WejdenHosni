@@ -10,9 +10,7 @@
   <!-- Profile View Counters and Interactive Triggers -->
   <p align="center" style="margin-top: 15px;">
     
-    <a href="https://t.me/spxd007" target="_blank">
-      <img src="https://img.shields.io/badge/Connect-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Connection" />
-    </a>
+    
   </p>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

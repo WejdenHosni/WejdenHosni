@@ -1,9 +1,8 @@
 <div align="center">
 
   <!-- Animated Header Graphic -->
-  <a href="https://github.com/Aetrix-Dev" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋;+I'm+Wejden+Hosni;+Future+CS+Engineer..." alt="Typing Animation" />
-  </a>
+  <h1 style="font-size: 2.8rem; color: #0078D4; margin-bottom: 5px;">✨ WEJDEN HOSNI ✨</h1>
+  <p style="font-size: 1.2rem; color: #a0a0a0; letter-spacing: 1px;">Computer Science Engineering Student | Cybersecurity & AI Enthusiast</p>
 
   <!-- Academic and Career Heading -->
   <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>

@@ -1,9 +1,8 @@
 <div align="center">
 
   <!-- Animated Header Graphic -->
-  <h1 style="font-size: 2.8rem; color: #0078D4; margin-bottom: 5px;">✨ WEJDEN HOSNI ✨</h1>
-  <p style="font-size: 1.2rem; color: #a0a0a0; letter-spacing: 1px;">Computer Science Engineering Student | Cybersecurity & AI Enthusiast</p>
-
+  <h1 style="font-size: 2.9rem; color: #0078D4; margin-bottom: 5px;">✨ WEJDEN HOSNI ✨</h1>
+  
   <!-- Academic and Career Heading -->
   <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
 

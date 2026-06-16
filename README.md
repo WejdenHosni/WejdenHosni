@@ -1,10 +1,12 @@
 <div align="center">
 
   <!-- Animated Header Graphic -->
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="50%" />
+  <a href="https://github.com/Aetrix-Dev" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=500&height=70&lines=Hello+World!+👋;+I'm+Wejden+Hosni;+Future+CS+Engineer..." alt="Typing Animation" />
+  </a>
 
   <!-- Academic and Career Heading -->
-  <h2>🚀 Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
+  <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
 
   <!-- Custom Telemetry Block -->
   <table border="0" cellpadding="10" cellspacing="0" bgcolor="#1f1f1f" style="border-radius: 6px; margin: 15px 0;">

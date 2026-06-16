@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header Graphic -->
-  <h1 style="font-size: 2.9rem; color: #0078D4; margin-bottom: 5px;">✨ WEJDEN HOSNI ✨</h1>
+  <h1 style="font-size: 2.9rem; color: #0078D4; margin-bottom: 5px;">HI,I'M WEJDEN HOSNI ✨</h1>
   
   <!-- Academic and Career Heading -->
   <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
@@ -9,8 +9,7 @@
  <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   <!-- Profile View Counters and Interactive Triggers -->
   <p align="center" style="margin-top: 15px;">
-    <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat-square&color=0078D4&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2300ADD8&title_bg=%23555555&icon=shield.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true" alt="Hits" />
+    
     <a href="https://t.me/spxd007" target="_blank">
       <img src="https://img.shields.io/badge/Connect-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Connection" />
     </a>

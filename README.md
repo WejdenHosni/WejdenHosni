@@ -6,10 +6,7 @@
   <!-- Academic and Career Heading -->
   <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
 
-  <!-- Custom Telemetry Block -->
-  
-
-  <!-- Spotify Audio Player Dropdown -->
+ <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   
   <!-- Profile View Counters and Interactive Triggers -->
   <p align="center" style="margin-top: 15px;">
@@ -24,9 +21,6 @@
 </div>
 
 <hr />
-
-<!-- Identity Overview Section -->
-<h2>🛡️ About Me</h2>
 <p>
   I am a passionate <strong>Computer Science Engineering Student</strong> exploring the intersection of <strong>Advanced Artificial Intelligence</strong> and <strong>Robust Infrastructure Security</strong>. Driven by an entrepreneurial mindset, I aim to bypass the corporate routine by building innovative tech solutions from scratch.
 </p>

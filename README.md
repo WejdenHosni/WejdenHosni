@@ -7,25 +7,10 @@
   <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
 
   <!-- Custom Telemetry Block -->
-  <table border="0" cellpadding="10" cellspacing="0" bgcolor="#1f1f1f" style="border-radius: 6px; margin: 15px 0;">
-    <tr>
-      <td>
-        <code style="color: #00ADD8;">⚡ STATUS: Designing secure network topologies & optimizing stochastic models.</code>
-      </td>
-    </tr>
-  </table>
+  
 
   <!-- Spotify Audio Player Dropdown -->
-  <details>
-    <summary style="cursor: pointer; font-weight: bold; color: #0078D4; margin-bottom: 10px;">
-      🎵 Currently deep-focused & vibing to...
-    </summary>
-    <br />
-    <a href="https://open.spotify.com/user/somnathpaul" target="_blank">
-      <img src="https://spotify-readme.sp-xd.vercel.app/api/spotify" alt="Spotify Tracker" />
-    </a>
-  </details>
-
+  
   <!-- Profile View Counters and Interactive Triggers -->
   <p align="center" style="margin-top: 15px;">
     <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat-square&color=0078D4&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -34,6 +19,7 @@
       <img src="https://img.shields.io/badge/Connect-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Connection" />
     </a>
   </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 </div>
 
@@ -46,9 +32,9 @@
 </p>
 
 <ul>
-  <li>🎓 <strong>Academics:</strong> Pursuing Engineering in Computer Science, mastering software engineering principles and stochastic systems.</li>
-  <li>🌐 <strong>Networking & Sec:</strong> <strong>Cisco CCNA Certified</strong>. Experienced in configuring secure network architectures, analytical problem solving, and WAN environments (Serial/Ethernet).</li>
-  <li>🧠 <strong>AI & Research:</strong> Implementing and evaluating Deep Learning architectures, Neural Networks, and stochastic applications (e.g., Markov Chain text/audio generation).</li>
+  <li>🎓 <strong>Academics:</strong> Pursuing Engineering in Computer Science, mastering software engineering principles.</li>
+  <li>🌐 <strong>Networking & Sec:</strong> <strong>Cisco CCNA 2 Certified </strong>. Experienced in configuring secure network architectures, analytical problem solving, and WAN environments (Serial/Ethernet).</li>
+  <li>🧠 <strong>AI & Research:</strong> Implementing and evaluating Deep Learning architectures, Neural Networks, and stochastic applications .</li>
   <li>🛠️ <strong>Workflow:</strong> Firm believer in clear documentation, structured research, and automated pipelines using <strong>LaTeX/Overleaf</strong>.</li>
 </ul>
 
@@ -63,7 +49,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
@@ -79,22 +64,17 @@
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Frappe-FFB000?style=flat-square&logo=frappe&logoColor=black" alt="Frappe" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 <h3>🛠️ Developer Environment & Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/NeoVim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
 <!-- Embedded Pseudocode Segment -->
 <pre><code class="language-dart">
-// Continuous refinement loop
 class Engineer extends Creator {
   final List&lt;String&gt; focusAreas = ["Ethical Hacking", "Stochastic Modeling", "Startup Architecture"];
   bool dynamicLearning = true;
@@ -111,7 +91,6 @@ class Engineer extends Creator {
 <!-- Objectives Subsection -->
 <h2>🎯 Current Pursuits</h2>
 <ul>
-  <li>🛠️ Deepening expertise in <strong>Frappe Framework</strong> for scalable business infrastructure.</li>
   <li>🛡️ Practicing hands-on blue/red team scenarios on <strong>TryHackMe</strong>.</li>
   <li>⚡ Simulating predictive AI behavior and refining structural workflows.</li>
   <li>💬 Ask me about <strong>Network Security, Object-Oriented Design patterns, or PC building</strong>.</li>

@@ -6,7 +6,7 @@
   <!-- Academic and Career Heading -->
   <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
 
- <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F5927974-girl-wear-hijab-working-from-home-as-freelancer-vector-flat&ved=0CBYQjRxqGAoTCJCIzYLDjJUDFQAAAAAdAAAAABCFAQ&opi=89978449)" width="230">
+ <img align='right' src="https://www.vecteezy.com/vector-art/5927974-girl-wear-hijab-working-from-home-as-freelancer-vector-flat" width="230">
   
   <!-- Profile View Counters and Interactive Triggers -->
   <p align="center" style="margin-top: 15px;">

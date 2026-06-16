@@ -6,7 +6,7 @@
   <!-- Academic and Career Heading -->
   <h2> Future Computer Science Engineer | Cybersecurity & AI Enthusiast</h2>
 
- <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+ <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
   <!-- Profile View Counters and Interactive Triggers -->
   <p align="center" style="margin-top: 15px;">
     <img src="https://komarev.com/ghpvc/?username=SP-XD&style=flat-square&color=0078D4&label=PROFILE+VIEWS" alt="Profile Views" />

@@ -66,18 +66,6 @@
   <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-<!-- Embedded Pseudocode Segment -->
-<pre><code class="language-dart">
-class Engineer extends Creator {
-  final List&lt;String&gt; focusAreas = ["Ethical Hacking", "Stochastic Modeling", "Startup Architecture"];
-  bool dynamicLearning = true;
-
-  void currentSprint() {
-    learn(Frameworks.frappe);
-    explore(Ecosystems.linuxKernel);
-  }
-}
-</code></pre>
 
 <hr />
 
@@ -91,23 +79,6 @@ class Engineer extends Creator {
 
 <hr />
 
-<!-- GitHub Visual Performance Metrics -->
-<h2>📊 Git Metrics</h2>
-<div align="center">
-  <a href="https://github.com/SP-XD" target="_blank">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" />
-  </a>
-
-  <br /><br />
-
-  <details>
-    <summary style="cursor: pointer; font-weight: bold; color: #a0a0a0;">🔍 Expand Detailed Profile Insights</summary>
-    <br />
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" width="80%" />
-  </details>
-</div>
 
 <hr />
 

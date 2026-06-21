@@ -33,7 +33,7 @@
 <!-- Skill Matrix Segment -->
 <h2>⚙️ Tech Stack & Ecosystem</h2>
 
-<h3>💻 Languages & Core Development</h3>
+<h3> Languages & Core Development</h3>
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-<h3>🔒 Cybersecurity & Networking</h3>
+<h3> Cybersecurity & Networking</h3>
 <p>
   <img src="https://img.shields.io/badge/Cisco_CCNA-005A9C?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
   <img src="https://img.shields.io/badge/TryHackMe-990000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-<h3>📊 Data </h3>
+<h3> Data </h3>
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -67,7 +67,7 @@
 <hr />
 
 <!-- Objectives Subsection -->
-<h2>🎯 Current Pursuits</h2>
+<h2> Current Pursuits</h2>
 <ul>
   <li>🛡️ Practicing hands-on blue/red team scenarios on <strong>TryHackMe</strong>.</li>
   <li>⚡ Simulating predictive AI behavior and refining structural workflows.</li>

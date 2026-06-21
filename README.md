@@ -78,16 +78,3 @@
 
 
 <hr />
-
-<!-- The Engineering Cycle Graphic Layout -->
-<div align="center">
-  <h3>🔄 The Engineering Cycle</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" alt="System Broken" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="8%" alt="It Works" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="8%" alt="Magic" />
-  </p>
-  <p><em>"It works beautifully, but the mathematical abstraction says it shouldn't."</em></p>
-</div>

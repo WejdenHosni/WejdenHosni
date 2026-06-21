@@ -73,8 +73,3 @@
   <li>⚡ Simulating predictive AI behavior and refining structural workflows.</li>
   <li>💬 Ask me about <strong>Network Security, Object-Oriented Design patterns, or PC building</strong>.</li>
 </ul>
-
-<hr />
-
-
-<hr />

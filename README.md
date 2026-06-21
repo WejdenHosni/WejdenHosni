@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-<h3>🛠️ Developer Environment & Tools</h3>
+<h3> Developer Environment & Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
